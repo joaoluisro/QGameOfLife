@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/view/ConfigScreen.qml</file>
+        <file>src/view/main.qml</file>
+        <file>src/view/MainMenu.qml</file>
+        <file>src/view/PlayScreen.qml</file>
+        <file>src/view/Title.qml</file>
+    </qresource>
+</RCC>
