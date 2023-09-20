@@ -38,7 +38,7 @@ Window {
         ConfigScreen{
             width:window.width
             height:window.height
-            onConfirmChange: stackView.pop()
+            onReturnBtnPressed: stackView.pop()
         }
     }
 
